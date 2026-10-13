@@ -1,0 +1,1 @@
+Khusus untuk file .html
